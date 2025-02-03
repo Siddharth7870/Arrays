@@ -12,7 +12,8 @@ int main()
     printf(" Before Reverse : ");
     for(int i = 0; i < n; i++)
     {
-        Pri
+        printf("%d ", arr[i]);
     }
+    
 
 }
