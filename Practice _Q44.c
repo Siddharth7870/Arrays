@@ -17,6 +17,8 @@ int main()
         printf("%d \n", arr[i]);
     }
 
+    ReverseArray( arr, n);
+
 }
 
 int ReverseArray( int arr[], int n)
