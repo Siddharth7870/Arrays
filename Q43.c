@@ -12,7 +12,7 @@ B. *(arr+5).  :- 6 (not exist)
 #include<stdio.h>
 
 int main()
-{
+{ 
     int arr[] = {1,2,3,4,5};
     printf(" *(arr+2) : %d\n", *(arr+2) );
     printf(" *(arr+5) : %d\n", *(arr+5) );
