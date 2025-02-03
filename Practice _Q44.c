@@ -14,7 +14,7 @@ int main()
     printf(" Before Reverse : ");
     for(int i = 0; i < n; i++)
     {
-        printf("%d \n", arr[i]);
+        printf("%d ", arr[i]);
     }
 
     ReverseArray( arr, n);
@@ -26,7 +26,7 @@ int ReverseArray( int arr[], int n)
     printf(" After Reverse : ");
     for(int i = n-1; i >= 0; i--)
     {
-        printf("%d \n", arr[i] );
+        printf("%d ", arr[i] );
     }
 
 
