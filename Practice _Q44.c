@@ -22,5 +22,6 @@ int main()
 int ReverseArray( int arr[], int n)
 {
     printf(" After Reverse : ");
-    
+    forO
+
 }
